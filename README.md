@@ -28,17 +28,6 @@ The study evaluates **R1234yf, R134a and R744** as zero-ODP alternatives to trad
     ```bash
     vcrs
     ```
-    ```bash
-    vcrs_with_ejector_pin
-    ```
-     ```bash
-     ejector_pin_with_plots
-    ```
-      ```bash
-    combined_plots_varying_T_evap
-    ```
-    ```bash
-    combined_plots_varying_T_cond
-    ```
+ 
 
 
