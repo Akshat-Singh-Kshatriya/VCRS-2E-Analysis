@@ -1,4 +1,4 @@
-# Vapour-Compression-Refrigeration-System-4E-Analysis
+# Vapour-Compression-Refrigeration-System-3E-Analysis
 3E (Energy, Exergy, Economic) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf, R134a, and R744 refrigerants.
 
 # Project Overview
